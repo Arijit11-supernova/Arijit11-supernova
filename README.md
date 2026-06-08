@@ -1,16 +1,11 @@
-## Hi there 👋
+<a href="https://labs.nmgdigital.com/">
+  <img src="https://labs.nmgdigital.com/assets/logos/forge-hex.svg"
+       title="Forge-NMG-Labs-Hackathon"
+       alt="Forge-NMG-Labs-Hackathon"
+       width="200"
+       height="200"/>
+</a>
 
-<!--
-**Arijit11-supernova/Arijit11-supernova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p style="font-size: 11px; color: #777777; margin-top: 5px; font-family: sans-serif;">
+  Presented by <a href="https://nmgdigital.com/" style="color: #777777; text-decoration: underline;">NMG Digital</a>
+</p>
